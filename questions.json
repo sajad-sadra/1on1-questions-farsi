@@ -1,36 +1,44 @@
 {
   "languages": [
     "en",
-    "ja_JP"
+    "ja_JP",
+    "fa"
   ],
   "i18nCategories": {
     "About Manager": {
       "en": "About Manager",
-      "ja_JP": "マネージャについて"
+      "ja_JP": "マネージャについて",
+      "fa": "درباره مدیر"
     },
     "Career development": {
       "en": "Career development",
-      "ja_JP": "キャリア開発"
+      "ja_JP": "キャリア開発",
+      "fa": "توسعه شغلی"
     },
     "Conversation starters": {
       "en": "Conversation starters",
-      "ja_JP": "会話のきっかけ"
+      "ja_JP": "会話のきっかけ",
+      "fa": "شروع کننده گفتگو"
     },
     "Job satisfaction": {
       "en": "Job satisfaction",
-      "ja_JP": "働きがい"
+      "ja_JP": "働きがい",
+      "fa": "رضایت شغلی"
     },
     "Other": {
       "en": "Other",
-      "ja_JP": "その他"
+      "ja_JP": "その他",
+      "fa": "سایر"
     },
     "Team and company": {
       "en": "Team and company",
-      "ja_JP": "チームと会社"
+      "ja_JP": "チームと会社",
+      "fa": "تیم و شرکت"
     },
     "Work-life": {
       "en": "Work-life",
-      "ja_JP": "ワーク・ライフ"
+      "ja_JP": "ワーク・ライフ",
+      "fa": "کار-زندگی"
     }
   },
   "questions": [
@@ -38,7 +46,8 @@
       "id": 306,
       "question": {
         "en": "If you were me, what changes would you make?",
-        "ja_JP": "あなたが私だったら、どんなことを変えますか？"
+        "ja_JP": "あなたが私だったら、どんなことを変えますか？",
+        "fa": "اگه تو جای من بودی چه تغییراتی میدادی ؟"
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:13.870Z",
@@ -48,7 +57,8 @@
       "id": 307,
       "question": {
         "en": "How do you prefer to receive feedback?",
-        "ja_JP": "どんな風にフィードバックを受け取りたいですか？"
+        "ja_JP": "どんな風にフィードバックを受け取りたいですか？",
+        "fa": "ترجیح میدی چجوری بازخورد بگیری ؟"
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:13.874Z",
@@ -58,7 +68,8 @@
       "id": 308,
       "question": {
         "en": "Do you feel you\u2019re getting enough feedback? Why\/why not?",
-        "ja_JP": "フィードバックは十分ですか？どうしてそう思いますか？"
+        "ja_JP": "フィードバックは十分ですか？どうしてそう思いますか？",
+        "fa": "حس میکنی بازخورد کافی میگیری؟ اگه نه چرا؟"
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:13.878Z",
@@ -68,7 +79,8 @@
       "id": 309,
       "question": {
         "en": "What aspect of your job you would like more help or coaching?",
-        "ja_JP": "仕事のどのような面でもっと助けやコーチングがほしいですか？"
+        "ja_JP": "仕事のどのような面でもっと助けやコーチングがほしいですか？",
+        "fa": "چه جنبه از شغلت بیشتر نیاز به کمک و راهنمایی داره ؟"
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:13.881Z",
@@ -78,7 +90,8 @@
       "id": 310,
       "question": {
         "en": "How can I better support you?",
-        "ja_JP": "どうしたらもっとあなたをサポートできますか？"
+        "ja_JP": "どうしたらもっとあなたをサポートできますか？",
+        "fa": "چطور میتونم بهتر ازت پشتیبانی کنم؟"
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:13.893Z",
@@ -88,7 +101,8 @@
       "id": 311,
       "question": {
         "en": "What could I do as a manager to make your work easier?",
-        "ja_JP": "マネージャとして、どうすればあなたの仕事の助けになりますか？"
+        "ja_JP": "マネージャとして、どうすればあなたの仕事の助けになりますか？",
+        "fa": "به عنوان یک مدیر چکاری میتونم بکنم که کار کردن برای تو راحت تر بشه؟"
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:13.896Z",
@@ -98,7 +112,8 @@
       "id": 312,
       "question": {
         "en": "What is something I could do better? What feedback do you have for me?",
-        "ja_JP": "私の改善点は何でしょうか？私へフィードバックをお願いします。"
+        "ja_JP": "私の改善点は何でしょうか？私へフィードバックをお願いします。",
+        "fa": "چه‌کاری هست که بهتر میتونم انجام بدم؟ چه بازخوردی برای من داری؟"
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:13.898Z",
@@ -108,7 +123,8 @@
       "id": 313,
       "question": {
         "en": "What aspects of your work would you like more or less direction from me?",
-        "ja_JP": "仕事上、もっと指示が欲しいところ、逆に指示されたくないところはどこでしょうか？"
+        "ja_JP": "仕事上、もっと指示が欲しいところ、逆に指示されたくないところはどこでしょうか？",
+        "fa": "چه جنبه از کارت نیاز به جهت دهی بیشتر یا کمتر از سمت من داره؟"
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:13.909Z",
@@ -118,7 +134,8 @@
       "id": 314,
       "question": {
         "en": "What would you like to know about me?",
-        "ja_JP": "私について知りたいことは何でしょうか？"
+        "ja_JP": "私について知りたいことは何でしょうか？",
+        "fa": "دوست داری درباره من چی بدونی؟"
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:13.912Z",
@@ -128,7 +145,8 @@
       "id": 315,
       "question": {
         "en": "What do you like about my management style? What do you dislike?",
-        "ja_JP": "私のマネージメント方法で良いところ、悪いところはどこでしょうか？"
+        "ja_JP": "私のマネージメント方法で良いところ、悪いところはどこでしょうか？",
+        "fa": "چه چیزایی رو درباره نحوه مدیریت من دوست داری و از چه چیزهایی بدت میاد؟"
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:13.915Z",
@@ -138,7 +156,8 @@
       "id": 316,
       "question": {
         "en": "What have your past managers done that you\u2019d like me to also do or not do?",
-        "ja_JP": "以前のマネージャのやったことで、私にもしてほしいこと、逆にしてほしくないこと何ですか？"
+        "ja_JP": "以前のマネージャのやったことで、私にもしてほしいこと、逆にしてほしくないこと何ですか？",
+        "fa": "چه کارهایی مدیرهای قبلی انجام دادن که دوست داری من انجام بدم یا دوست داری که من انجام‌شون ندم؟"
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:13.918Z",
