@@ -23,49 +23,49 @@ Another app from @perlin, https://1on1questions.netlify.app/
 - [Work-life](#work-life)
 
 ## درباره مدیر
-* Are there any obstacles I can remove for you?
+* آیا موانعی وجود داره که من بتونم اونارو حذفشون کنم برات ؟
 * As your manager, what would you like me to stop, start, or continue doing?
-* At what point in the past week were you most frustrated with or discouraged by your work? What can I do to help you manage that?
+* تو چه نقطه‌ای در هفته گذشته دیگه از کار کردن خسته شدی؟ چطور میتونم برای مدیریتش کمکت کنم؟
 * حس میکنی بازخورد کافی میگیری؟ اگه نه چرا؟
 * Do you have any feedback for me?
 * Do you think that you receive enough feedback? Is feedback helpful for your personal development? What can I do to help you get the feedback you want?
 * چطور میتونم بهتر ازت پشتیبانی کنم؟
-* How can I make your days more fulfilling?
+* چجوری میتونم یه روز تو رو بهتر بکنم ؟
 * How could I do a better job communicating with you?
 * ترجیح میدی چجوری بازخورد بگیری ؟
-* How might I make this project more challenging or interesting for you?
+* چطور میتونم این پروژه رو برای تو چالشی تر و جذاب تر بکنم ؟
 * I'd like to improve as a manager and I could really use your help. Next week, would you be willing to share some feedback on one to two things you think I could do better as your manager?
 * اگه تو جای من بودی چه تغییراتی میدادی ؟
 * I’m trying to make my 1-on-1s better and would appreciate your honest feedback on this one — what did you like about it, and what could be improved?
 * I’ve noticed that our last several 1-on-1s have stayed pretty surface. What are your honest impressions of this meeting? What could we be doing differently or better?
-* What additional resources can I provide for you between now and the next time we meet?
+* چه منابعی برات فراهم کنم تا جلسه بعدی‌ای که با هم دیگه داریم؟
 * What are your impressions of our 1-on-1s? What could we do differently or better?
-* What are your thoughts on my changes?
+* درباره تغییرات من چه فکری میکنی ؟
 * چه جنبه از شغلت بیشتر نیاز به کمک و راهنمایی داره ؟
 * چه جنبه از کارت نیاز به جهت دهی بیشتر یا کمتر از سمت من داره؟
-* What can I be doing better to help you in your job?
+* چیکار کنم که تو کارت کمکت کرده باشم ؟
 * What can I do as a manager to make your work easier?
 * What can I do better or differently as your manager to support you?
 * What can I do for you that I'm not?
 * What can I do to help remove obstacles?
-* What can I do to help you achieve you current goals and priorities?
+* چیکار میتونم بکنم که در رسیدن به اولویت‌ها و هدف‌هات کمکت کرده باشم ؟
 * What can I do to help you enjoy your work more or remove roadblocks to progress?
 * What can I do to help you?
-* What can I do to make things more manageable?
+* چیکار میتونم بکنم که مسائل رو قابل مدیریت‌تر بکنم ؟
 * What can I do to make your job easier?
 * به عنوان یک مدیر چکاری میتونم بکنم که کار کردن برای تو راحت تر بشه؟
 * چه چیزایی رو درباره نحوه مدیریت من دوست داری و از چه چیزهایی بدت میاد؟
-* What do you think I should know about the project, but might not?
+* فکر میکنی چه چیزی باید درباره پروژه بدونم ولی نمیدونم ؟
 * چه کارهایی مدیرهای قبلی انجام دادن که دوست داری من انجام بدم یا دوست داری که من انجام‌شون ندم؟
 * چه‌کاری هست که بهتر میتونم انجام بدم؟ چه بازخوردی برای من داری؟
 * What is something I could have done better? What are the situations that I could have helped more but didn’t?
-* What is the biggest challenge you are currently facing? How can I help with that?
+* بزرگترین چالشی که الان داری چیه؟ چجوری میتونم در برابر اون کمکت کنم؟
 * What is the one thing that you need the most from me?
 * What is the percentage of my involvement in your daily tasks? Would you prefer more or less?
 * دوست داری درباره من چی بدونی؟
 * What would you like to see change about these discussions? How could we make them more useful for you?
-* What’s your favorite thing I do as a manager of this team I should keep doing?
-* Where do you think I can be most helpful?
+* چه کاری که من انجام میدهم رو دوست داری و به نظرت باید آن را ادامه دهم ؟
+* فکر میکنی من کجا میتونی بیشترین کمک رو بکنم ؟
 * Which areas would you like more or less direction from me on your work?
 * Would you like more coaching? What aspect of your job do you like more help and coaching on?
 

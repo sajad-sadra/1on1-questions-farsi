@@ -167,7 +167,8 @@
       "id": 317,
       "question": {
         "en": "What\u2019s your favorite thing I do as a manager of this team I should keep doing?",
-        "ja_JP": "私がチームのマネージャとしてやっていることで、気に入ってること、継続すべきことは何ですか？"
+        "ja_JP": "私がチームのマネージャとしてやっていることで、気に入ってること、継続すべきことは何ですか？",
+        "fa": "چه کاری که من انجام میدهم رو دوست داری و به نظرت باید آن را ادامه دهم ؟"
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:13.930Z",
@@ -177,7 +178,8 @@
       "id": 318,
       "question": {
         "en": "Where do you think I can be most helpful?",
-        "ja_JP": "どんな場面で私は最も役に立つと思いますか？"
+        "ja_JP": "どんな場面で私は最も役に立つと思いますか？",
+        "fa": "فکر میکنی من کجا میتونی بیشترین کمک رو بکنم ؟"
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:13.933Z",
@@ -187,7 +189,8 @@
       "id": 319,
       "question": {
         "en": "What are your thoughts on my changes?",
-        "ja_JP": "私の行った変更についてどう思いますか？"
+        "ja_JP": "私の行った変更についてどう思いますか？",
+        "fa": "درباره تغییرات من چه فکری میکنی ؟"
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:13.935Z",
@@ -197,7 +200,8 @@
       "id": 320,
       "question": {
         "en": "How can I make your days more fulfilling?",
-        "ja_JP": "あなたの日常をもっと充実させるために、私にできることはありますか？"
+        "ja_JP": "あなたの日常をもっと充実させるために、私にできることはありますか？",
+        "fa": "چجوری میتونم یه روز تو رو بهتر بکنم ؟"
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:13.938Z",
@@ -207,7 +211,8 @@
       "id": 321,
       "question": {
         "en": "What can I be doing better to help you in your job?",
-        "ja_JP": "あなたの仕事を手助けするために、私がもっとできることは何ですか？"
+        "ja_JP": "あなたの仕事を手助けするために、私がもっとできることは何ですか？",
+        "fa": "چیکار کنم که تو کارت کمکت کرده باشم ؟"
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:13.950Z",
@@ -217,7 +222,8 @@
       "id": 322,
       "question": {
         "en": "Are there any obstacles I can remove for you?",
-        "ja_JP": "私があなたのために取り除くことができる障害はありますか？"
+        "ja_JP": "私があなたのために取り除くことができる障害はありますか？",
+        "fa": "آیا موانعی وجود داره که من بتونم اونارو حذفشون کنم برات ؟"
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:13.953Z",
@@ -227,7 +233,8 @@
       "id": 323,
       "question": {
         "en": "What can I do to help you achieve you current goals and priorities?",
-        "ja_JP": "あなたが現在の目標と優先事項を達成するために、私が手伝えることはありますか？"
+        "ja_JP": "あなたが現在の目標と優先事項を達成するために、私が手伝えることはありますか？",
+        "fa": "چیکار میتونم بکنم که در رسیدن به اولویت‌ها و هدف‌هات کمکت کرده باشم ؟"
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:13.956Z",
@@ -237,7 +244,8 @@
       "id": 324,
       "question": {
         "en": "What can I do to make things more manageable?",
-        "ja_JP": "物事をより管理しやすくするために、私に何ができますか？"
+        "ja_JP": "物事をより管理しやすくするために、私に何ができますか？",
+        "fa": "چیکار میتونم بکنم که مسائل رو قابل مدیریت‌تر بکنم ؟"
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:13.959Z",
@@ -247,7 +255,8 @@
       "id": 325,
       "question": {
         "en": "How might I make this project more challenging or interesting for you?",
-        "ja_JP": "あなたにとってこのプロジェクトをより挑戦的、または面白くするために、どうすれば良いですか？"
+        "ja_JP": "あなたにとってこのプロジェクトをより挑戦的、または面白くするために、どうすれば良いですか？",
+        "fa": "چطور میتونم این پروژه رو برای تو چالشی تر و جذاب تر بکنم ؟"
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:13.971Z",
@@ -257,7 +266,8 @@
       "id": 326,
       "question": {
         "en": "What do you think I should know about the project, but might not?",
-        "ja_JP": "このプロジェクトについて、私が知っておくべきだと思うことは何ですか？"
+        "ja_JP": "このプロジェクトについて、私が知っておくべきだと思うことは何ですか？",
+        "fa": "فکر میکنی چه چیزی باید درباره پروژه بدونم ولی نمیدونم ؟"
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:13.976Z",
@@ -267,7 +277,8 @@
       "id": 327,
       "question": {
         "en": "What is the biggest challenge you are currently facing? How can I help with that?",
-        "ja_JP": "あなたが現在立ち向かおうとしている最も大きな挑戦は何ですか？　また、私にどんな手助けができますか？"
+        "ja_JP": "あなたが現在立ち向かおうとしている最も大きな挑戦は何ですか？　また、私にどんな手助けができますか？",
+        "fa": "بزرگترین چالشی که الان داری چیه؟ چجوری میتونم در برابر اون کمکت کنم؟"
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:13.979Z",
@@ -277,7 +288,8 @@
       "id": 328,
       "question": {
         "en": "At what point in the past week were you most frustrated with or discouraged by your work? What can I do to help you manage that?",
-        "ja_JP": "この1週間のどの時点で、仕事に最も不満を感じましたか？　それを治めるために私にできることは何ですか？"
+        "ja_JP": "この1週間のどの時点で、仕事に最も不満を感じましたか？　それを治めるために私にできることは何ですか？",
+        "fa": "تو چه نقطه‌ای در هفته گذشته دیگه از کار کردن خسته شدی؟ چطور میتونم برای مدیریتش کمکت کنم؟"
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:13.982Z",
@@ -287,7 +299,8 @@
       "id": 329,
       "question": {
         "en": "What additional resources can I provide for you between now and the next time we meet?",
-        "ja_JP": "次に会うまでに、私があなたに提供できる追加のリソースは何ですか？"
+        "ja_JP": "次に会うまでに、私があなたに提供できる追加のリソースは何ですか？",
+        "fa": "چه منابعی برات فراهم کنم تا جلسه بعدی‌ای که با هم دیگه داریم؟"
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:13.995Z",
