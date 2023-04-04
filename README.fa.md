@@ -24,50 +24,50 @@ Another app from @perlin, https://1on1questions.netlify.app/
 
 ## درباره مدیر
 * آیا موانعی وجود داره که من بتونم اونارو حذفشون کنم برات ؟
-* As your manager, what would you like me to stop, start, or continue doing?
+* به عنوان مدیر تو، دوست داری چه کاری رو شروع کنم یا تمام کنم یا ادامه بدم؟
 * تو چه نقطه‌ای در هفته گذشته دیگه از کار کردن خسته شدی؟ چطور میتونم برای مدیریتش کمکت کنم؟
 * حس میکنی بازخورد کافی میگیری؟ اگه نه چرا؟
-* Do you have any feedback for me?
-* Do you think that you receive enough feedback? Is feedback helpful for your personal development? What can I do to help you get the feedback you want?
+* بازخوردی برای من داری؟
+* به نظرت به اندازه کافی بازخورد میگیری؟ آیا بازخوردهایی که گرفتی برای توسعه شخصی‌ات مفید بوده؟ چیکار میتونم بکنم که کمکت کنم بازخوردهایی که دوست داری رو بگیری؟
 * چطور میتونم بهتر ازت پشتیبانی کنم؟
 * چجوری میتونم یه روز تو رو بهتر بکنم ؟
-* How could I do a better job communicating with you?
+* چطور میتونم بهتر با تو ارتباط بگیرم؟
 * ترجیح میدی چجوری بازخورد بگیری ؟
 * چطور میتونم این پروژه رو برای تو چالشی تر و جذاب تر بکنم ؟
-* I'd like to improve as a manager and I could really use your help. Next week, would you be willing to share some feedback on one to two things you think I could do better as your manager?
+* به عنوان مدیر دارم سعی میکنم که بهتر بشم و از کمک تو میتونم استفاده کنم. میشه درباره یکی دوتا چیز که میتونم درش بهتر باشم بهم بازخورد بدی ؟
 * اگه تو جای من بودی چه تغییراتی میدادی ؟
-* I’m trying to make my 1-on-1s better and would appreciate your honest feedback on this one — what did you like about it, and what could be improved?
-* I’ve noticed that our last several 1-on-1s have stayed pretty surface. What are your honest impressions of this meeting? What could we be doing differently or better?
+* من دارم سعی میکنم که جلسه‌های یک‌به‌یک مون رو بهتر کنم خوشحال میشم بازخورد صادقانه در مورد اینکه چه چیزی رو در این جلسه‌ها دوست داری و چه چیزی جای پیشرفت داره بهم بدی.
+* متوجه شدم که جلسه قبلی‌مون خیلی سطحی بود. برداشتت از این جلسه چیه؟ چکاری رو میتونیم متفاوت یا بهتر انجام بدیم؟
 * چه منابعی برات فراهم کنم تا جلسه بعدی‌ای که با هم دیگه داریم؟
-* What are your impressions of our 1-on-1s? What could we do differently or better?
+* برداشتت از جلسه‌های یک‌به‌یک مون چیه؟ چه چیز‌هایی رو میتونیم متفاوت‌تر یا بهتر انجام بدیم؟
 * درباره تغییرات من چه فکری میکنی ؟
 * چه جنبه از شغلت بیشتر نیاز به کمک و راهنمایی داره ؟
 * چه جنبه از کارت نیاز به جهت دهی بیشتر یا کمتر از سمت من داره؟
 * چیکار کنم که تو کارت کمکت کرده باشم ؟
-* What can I do as a manager to make your work easier?
-* What can I do better or differently as your manager to support you?
-* What can I do for you that I'm not?
-* What can I do to help remove obstacles?
+* به عنوان مدیر چیکرا میتونم بکنم که کار کردن برای آسون تر بشه؟
+* چه کاری رو بهتر یا متفاوت‌تر میتونم انجام بدم که تورو ساپورت کنم؟
+* چیکار میتونم برات بکنم که نکردم؟
+* چیکار میتونم بکنم که کمک کنم موانع از سر راه برداشته بشه؟
 * چیکار میتونم بکنم که در رسیدن به اولویت‌ها و هدف‌هات کمکت کرده باشم ؟
-* What can I do to help you enjoy your work more or remove roadblocks to progress?
-* What can I do to help you?
+* چطور میتونم کمکت کنم از کارت بیشتر لذت ببری یا اینکه موانع از سر راهت بردارم؟
+* چطور میتونم کمکت کنم؟
 * چیکار میتونم بکنم که مسائل رو قابل مدیریت‌تر بکنم ؟
-* What can I do to make your job easier?
+* چیکار میتونم بکنم که کار کردن رو راحت تر کنم؟
 * به عنوان یک مدیر چکاری میتونم بکنم که کار کردن برای تو راحت تر بشه؟
 * چه چیزایی رو درباره نحوه مدیریت من دوست داری و از چه چیزهایی بدت میاد؟
 * فکر میکنی چه چیزی باید درباره پروژه بدونم ولی نمیدونم ؟
 * چه کارهایی مدیرهای قبلی انجام دادن که دوست داری من انجام بدم یا دوست داری که من انجام‌شون ندم؟
 * چه‌کاری هست که بهتر میتونم انجام بدم؟ چه بازخوردی برای من داری؟
-* What is something I could have done better? What are the situations that I could have helped more but didn’t?
+* چیکار میتوستم بهتر بکنم؟ چه شرایطی بوده که من میتونستم بیشتر کمک بکنم ولی نکردم؟
 * بزرگترین چالشی که الان داری چیه؟ چجوری میتونم در برابر اون کمکت کنم؟
-* What is the one thing that you need the most from me?
-* What is the percentage of my involvement in your daily tasks? Would you prefer more or less?
+* یه چیزی که بیشتر از هرچیزی از من میخوای چیه؟
+* درصد مشارکت من در تسک‌های روزانه‌ات چقدره؟ دوست داری بیشتر بشه یا کمتر؟
 * دوست داری درباره من چی بدونی؟
-* What would you like to see change about these discussions? How could we make them more useful for you?
+* دوست دارید چه تغییری در این بحث ها مشاهده کنید؟ چگونه می توانیم آنها را برای شما مفیدتر کنیم؟
 * چه کاری که من انجام میدهم رو دوست داری و به نظرت باید آن را ادامه دهم ؟
 * فکر میکنی من کجا میتونی بیشترین کمک رو بکنم ؟
-* Which areas would you like more or less direction from me on your work?
-* Would you like more coaching? What aspect of your job do you like more help and coaching on?
+* چه حوزه‌ای رو میخوای که من کمتر یا بیشتر درش دخالت کنم؟
+* آیا مربیگری و راهنمایی بیشتری میخوای؟ بیشتر دوست داری در چه جنبه‌ای از کارت راهنمایی بشی؟
 
 ## توسعه شغلی
 * Are there any events or training you’d like to attend to help you grow your skills?

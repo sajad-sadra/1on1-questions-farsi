@@ -310,7 +310,8 @@
       "id": 330,
       "question": {
         "en": "I\u2019ve noticed that our last several 1-on-1s have stayed pretty surface. What are your honest impressions of this meeting? What could we be doing differently or better?",
-        "ja_JP": "最近の1on1がかなり表面的なものになってしまっていることに気がつきました。このミーティングに対するあなたの印象はどうですか？　何か異なる、またはより良い取り組みができるでしょうか？"
+        "ja_JP": "最近の1on1がかなり表面的なものになってしまっていることに気がつきました。このミーティングに対するあなたの印象はどうですか？　何か異なる、またはより良い取り組みができるでしょうか？",
+        "fa": "متوجه شدم که جلسه قبلی‌مون خیلی سطحی بود. برداشتت از این جلسه چیه؟ چکاری رو میتونیم متفاوت یا بهتر انجام بدیم؟"
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:13.998Z",
@@ -320,7 +321,8 @@
       "id": 331,
       "question": {
         "en": "What would you like to see change about these discussions? How could we make them more useful for you?",
-        "ja_JP": "これらの議論によって何が変わって欲しいと思いますか？　どうすればあなたにとってより有益な議論となりますか？"
+        "ja_JP": "これらの議論によって何が変わって欲しいと思いますか？　どうすればあなたにとってより有益な議論となりますか？",
+        "fa": "دوست دارید چه تغییری در این بحث ها مشاهده کنید؟ چگونه می توانیم آنها را برای شما مفیدتر کنیم؟"
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:14.009Z",
@@ -330,7 +332,8 @@
       "id": 332,
       "question": {
         "en": "I\u2019m trying to make my 1-on-1s better and would appreciate your honest feedback on this one \u2014 what did you like about it, and what could be improved?",
-        "ja_JP": "私は1on1を改善していきたいと思っているため、あなたから率直なフィードバックを貰えるとありがたいです。この1on1のどういうところがあなたにとって好ましかったですか？　また、何を改善することができましたか？"
+        "ja_JP": "私は1on1を改善していきたいと思っているため、あなたから率直なフィードバックを貰えるとありがたいです。この1on1のどういうところがあなたにとって好ましかったですか？　また、何を改善することができましたか？",
+        "fa": "من دارم سعی میکنم که جلسه‌های یک‌به‌یک مون رو بهتر کنم خوشحال میشم بازخورد صادقانه در مورد اینکه چه چیزی رو در این جلسه‌ها دوست داری و چه چیزی جای پیشرفت داره بهم بدی."
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:14.013Z",
@@ -340,7 +343,8 @@
       "id": 334,
       "question": {
         "en": "I'd like to improve as a manager and I could really use your help. Next week, would you be willing to share some feedback on one to two things you think I could do better as your manager?",
-        "ja_JP": "私はマネージャーとしての自分を改善していきたいと思っているため、あなたの助けが必要です。来週、私があなたのマネージャーとしてより良くなるための事柄を1つか2つ、フィードバックしてもらうことはできますか？"
+        "ja_JP": "私はマネージャーとしての自分を改善していきたいと思っているため、あなたの助けが必要です。来週、私があなたのマネージャーとしてより良くなるための事柄を1つか2つ、フィードバックしてもらうことはできますか？",
+        "fa": "به عنوان مدیر دارم سعی میکنم که بهتر بشم و از کمک تو میتونم استفاده کنم. میشه درباره یکی دوتا چیز که میتونم درش بهتر باشم بهم بازخورد بدی ؟"
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:14.028Z",
@@ -350,7 +354,8 @@
       "id": 335,
       "question": {
         "en": "What can I do to help you enjoy your work more or remove roadblocks to progress?",
-        "ja_JP": "あなたが仕事をもっと楽しんだり、進行を妨げる障害を取り除いたりするために、私にできることは何ですか？"
+        "ja_JP": "あなたが仕事をもっと楽しんだり、進行を妨げる障害を取り除いたりするために、私にできることは何ですか？",
+        "fa": "چطور میتونم کمکت کنم از کارت بیشتر لذت ببری یا اینکه موانع از سر راهت بردارم؟"
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:14.030Z",
@@ -360,7 +365,8 @@
       "id": 336,
       "question": {
         "en": "Which areas would you like more or less direction from me on your work?",
-        "ja_JP": "あなたの仕事の、どの分野で私の指示がもっと欲しい、または減らして欲しいですか？"
+        "ja_JP": "あなたの仕事の、どの分野で私の指示がもっと欲しい、または減らして欲しいですか？",
+        "fa": "چه حوزه‌ای رو میخوای که من کمتر یا بیشتر درش دخالت کنم؟"
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:14.033Z",
@@ -370,7 +376,8 @@
       "id": 337,
       "question": {
         "en": "What are your impressions of our 1-on-1s? What could we do differently or better?",
-        "ja_JP": "この1on1の印象はどうですか？　何か異なる、またはより良い取り組みができるでしょうか？"
+        "ja_JP": "この1on1の印象はどうですか？　何か異なる、またはより良い取り組みができるでしょうか？",
+        "fa": "برداشتت از جلسه‌های یک‌به‌یک مون چیه؟ چه چیز‌هایی رو میتونیم متفاوت‌تر یا بهتر انجام بدیم؟"
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:14.045Z",
@@ -380,7 +387,8 @@
       "id": 338,
       "question": {
         "en": "Do you think that you receive enough feedback? Is feedback helpful for your personal development? What can I do to help you get the feedback you want?",
-        "ja_JP": "あなたは十分なフィードバックを受け取っていると思いますか？　フィードバックはあなた個人の成長に役立っていますか？　あなたが求めるフィードバックを得るために、私に何ができますか？"
+        "ja_JP": "あなたは十分なフィードバックを受け取っていると思いますか？　フィードバックはあなた個人の成長に役立っていますか？　あなたが求めるフィードバックを得るために、私に何ができますか？",
+        "fa": "به نظرت به اندازه کافی بازخورد میگیری؟ آیا بازخوردهایی که گرفتی برای توسعه شخصی‌ات مفید بوده؟ چیکار میتونم بکنم که کمکت کنم بازخوردهایی که دوست داری رو بگیری؟"
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:14.048Z",
@@ -390,7 +398,8 @@
       "id": 339,
       "question": {
         "en": "Would you like more coaching? What aspect of your job do you like more help and coaching on?",
-        "ja_JP": "もっとコーチングを受けたいですか？　あなたの仕事のどういった部分で、もっと手助けやコーチングをして欲しいと思いますか？"
+        "ja_JP": "もっとコーチングを受けたいですか？　あなたの仕事のどういった部分で、もっと手助けやコーチングをして欲しいと思いますか？",
+        "fa": "آیا مربیگری و راهنمایی بیشتری میخوای؟ بیشتر دوست داری در چه جنبه‌ای از کارت راهنمایی بشی؟"
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:14.051Z",
@@ -400,7 +409,8 @@
       "id": 340,
       "question": {
         "en": "What can I do as a manager to make your work easier?",
-        "ja_JP": "あなたの仕事をより簡単にするために、マネージャーとして私に何かできる事はありますか？"
+        "ja_JP": "あなたの仕事をより簡単にするために、マネージャーとして私に何かできる事はありますか？",
+        "fa": "به عنوان مدیر چیکرا میتونم بکنم که کار کردن برای آسون تر بشه؟"
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:14.062Z",
@@ -410,7 +420,8 @@
       "id": 341,
       "question": {
         "en": "What is the percentage of my involvement in your daily tasks? Would you prefer more or less?",
-        "ja_JP": "日々の仕事で、私が関わっているのは何パーセントくらいでしょうか？もっと増やしたい/減らしたいですか？"
+        "ja_JP": "日々の仕事で、私が関わっているのは何パーセントくらいでしょうか？もっと増やしたい/減らしたいですか？",
+        "fa": "درصد مشارکت من در تسک‌های روزانه‌ات چقدره؟ دوست داری بیشتر بشه یا کمتر؟"
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:14.065Z",
@@ -420,7 +431,8 @@
       "id": 343,
       "question": {
         "en": "What is something I could have done better? What are the situations that I could have helped more but didn\u2019t?",
-        "ja_JP": "私がもっと良くできるはずだったことは何ですか？私がもっと助けになれたのはどんな場面でしょうか？"
+        "ja_JP": "私がもっと良くできるはずだったことは何ですか？私がもっと助けになれたのはどんな場面でしょうか？",
+        "fa": "چیکار میتوستم بهتر بکنم؟ چه شرایطی بوده که من میتونستم بیشتر کمک بکنم ولی نکردم؟"
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:14.082Z",
@@ -430,7 +442,8 @@
       "id": 344,
       "question": {
         "en": "What can I do to help you?",
-        "ja_JP": "あなたを助けるために私は何ができますか？"
+        "ja_JP": "あなたを助けるために私は何ができますか？",
+        "fa": "چطور میتونم کمکت کنم؟"
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:14.084Z",
@@ -440,7 +453,8 @@
       "id": 345,
       "question": {
         "en": "What is the one thing that you need the most from me?",
-        "ja_JP": "私を最も必要とするのはどんなことですか？"
+        "ja_JP": "私を最も必要とするのはどんなことですか？",
+        "fa": "یه چیزی که بیشتر از هرچیزی از من میخوای چیه؟"
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:14.087Z",
@@ -450,7 +464,8 @@
       "id": 346,
       "question": {
         "en": "As your manager, what would you like me to stop, start, or continue doing?",
-        "ja_JP": "マネージャーとして、私にやめてほしい/始めてほしい/続けてほしいことは何ですか？"
+        "ja_JP": "マネージャーとして、私にやめてほしい/始めてほしい/続けてほしいことは何ですか？",
+        "fa": "به عنوان مدیر تو، دوست داری چه کاری رو شروع کنم یا تمام کنم یا ادامه بدم؟"
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:14.090Z",
@@ -460,7 +475,8 @@
       "id": 347,
       "question": {
         "en": "What can I do to help remove obstacles?",
-        "ja_JP": "障害を取り除くために私は何ができますか？"
+        "ja_JP": "障害を取り除くために私は何ができますか？",
+        "fa": "چیکار میتونم بکنم که کمک کنم موانع از سر راه برداشته بشه؟"
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:14.102Z",
@@ -470,7 +486,8 @@
       "id": 348,
       "question": {
         "en": "Do you have any feedback for me?",
-        "ja_JP": "私に何かフィードバックはありますか？"
+        "ja_JP": "私に何かフィードバックはありますか？",
+        "fa": "بازخوردی برای من داری؟"
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:14.105Z",
@@ -480,7 +497,8 @@
       "id": 350,
       "question": {
         "en": "What can I do to make your job easier?",
-        "ja_JP": "どうしたらあなたの仕事がもっと簡単にできるようになりますか？"
+        "ja_JP": "どうしたらあなたの仕事がもっと簡単にできるようになりますか？",
+        "fa": "چیکار میتونم بکنم که کار کردن رو راحت تر کنم؟"
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:14.121Z",
@@ -490,7 +508,8 @@
       "id": 352,
       "question": {
         "en": "What can I do for you that I'm not?",
-        "ja_JP": "私ではなく、あなたのため、私に何ができますか？"
+        "ja_JP": "私ではなく、あなたのため、私に何ができますか？",
+        "fa": "چیکار میتونم برات بکنم که نکردم؟"
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:14.128Z",
@@ -500,7 +519,8 @@
       "id": 355,
       "question": {
         "en": "What can I do better or differently as your manager to support you?",
-        "ja_JP": "マネージャとしてサポートするのに、もっと良くしたり、変えたりできるのはどんなことでしょうか？"
+        "ja_JP": "マネージャとしてサポートするのに、もっと良くしたり、変えたりできるのはどんなことでしょうか？",
+        "fa": "چه کاری رو بهتر یا متفاوت‌تر میتونم انجام بدم که تورو ساپورت کنم؟"
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:14.146Z",
@@ -510,7 +530,8 @@
       "id": 356,
       "question": {
         "en": "How could I do a better job communicating with you?",
-        "ja_JP": "どうしたらあなたとのコミュニケーションをもっと良くできるでしょうか？"
+        "ja_JP": "どうしたらあなたとのコミュニケーションをもっと良くできるでしょうか？",
+        "fa": "چطور میتونم بهتر با تو ارتباط بگیرم؟"
       },
       "category": "About Manager",
       "created_at": "2017-11-18T14:26:14.149Z",
